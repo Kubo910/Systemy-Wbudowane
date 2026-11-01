@@ -1,0 +1,5 @@
+{
+    "idf.currentSetup": "/home/jakub/.espressif/v6.1/esp-idf",
+    "idf.flashType": "UART",
+    "C_Cpp.errorSquiggles": "disabled"
+}
